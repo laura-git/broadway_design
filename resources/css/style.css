@@ -3,15 +3,47 @@ body {
     text-align: center;
 }
 
-h1, li, a {
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+li, a {
     color: white;
+
 }
 
 h1 {
     font-size: 70px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 23px;
     font-weight: bold;
 }
 
 li {
     list-style: none;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.header {
+    color: white;
+    background-image: url("file:///Users/Laura/Desktop/Wohnen_im_Alter/projects/broadway_design/resources/images/the-flatiron-building.png");
+}
+
+.footer {
+    text-align: left;
+    color: white;
+    background-color: dimgray;
+}
+
+.design {
+    background-image: url("file:///Users/Laura/Desktop/Wohnen_im_Alter/projects/broadway_design/resources/images/the-flatiron-building.png");
+    color:white;
+
 }
