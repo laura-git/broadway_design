@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 li, a {
     color: white;
+    font-size: 18px;
 
 }
 
@@ -31,6 +32,10 @@ li {
     line-height: 28px;
 }
 
+p {
+    font-size: 14px;
+}
+
 .header {
     color: white;
     background-image: url("file:///Users/Laura/Desktop/Wohnen_im_Alter/projects/broadway_design/resources/images/the-flatiron-building.png");
@@ -40,6 +45,7 @@ li {
     text-align: left;
     color: white;
     background-color: dimgray;
+    font-size: 11px;
 }
 
 .design {
