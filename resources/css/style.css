@@ -1,0 +1,17 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+h1, li, a {
+    color: white;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
